@@ -1,0 +1,4 @@
+Intel(R) Celeron(R) CPU N3350
+1.10Ghz
+4,00 GB RAM
+memory 115 GB
